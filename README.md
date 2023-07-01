@@ -1,4 +1,4 @@
 # coursera-test
 Coursera test repository
 
-https://github.com/nabeelarain713/coursera-test.git Here is the link of my github repository.
+https://nabeelarain713.github.io/coursera-test/ Here is the link of my github repository.
